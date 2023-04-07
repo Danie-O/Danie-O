@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and data science.
 - 🌱 Currently exploring Python for data science and web development using the MERN stack.
 - 🌱 I’m looking to collaborate on projects relating to my interests...
-- 
+
 
 - 📫 How to reach me:  
      <https://www.linkedin.com/in/daniella-omenogor-2538861aa/>
