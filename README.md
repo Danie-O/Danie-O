@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Danie-O
-- 👀 I’m interested in data science, software development and UI/UX design.
+- 👀 I’m interested in software development and data science.
 - 🌱 Currently exploring Python for data science and web development using the MERN stack.
 - 🌱 I’m looking to collaborate on projects relating to my interests...
-- 💞️ I enjoy watching action/comedy series, cooking or reading a good book.
+- 
 
 - 📫 How to reach me:  
      <https://www.linkedin.com/in/daniella-omenogor-2538861aa/>
