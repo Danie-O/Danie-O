@@ -1,6 +1,9 @@
 👋 Hi, I’m @Danie-O
+
 👀 I’m interested in software development and data science.
+
 🌱 Currently exploring Python for data science 
+
 🌱 Also learning web development using the MERN stack.
 
 
