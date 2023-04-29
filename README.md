@@ -1,4 +1,4 @@
-👋 Hi, I’m @Danie-O
+👋 Hi, I’m Daniella!
 
 👀 I’m interested in software development and data science.
 
