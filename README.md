@@ -1,15 +1,23 @@
-👋 Hi, I’m Daniella!
+## About me.
 
-👀 I’m interested in software development and data science.
+👋 Hi, I’m Daniella Omenogor!
 
-🌱 Currently exploring Python for data science 
+👀 I’m a final year Computer Science undergraduate, interested in software development and data science.
 
-🌱 Also learning web development using the MERN stack.
+🌱 I am currently exploring Python for data science particularly in the fields of ML and AI.
+
+🌱 I am also learning the MERN stack and FastAPI for fullstack web development and backend development respectively.
+
+⚡ I enjoy reading novels and watching action/comedy series in my free time!
 
 
 📫 How to reach me:  
      <https://www.linkedin.com/in/daniella-omenogor-2538861aa/>
-     
+ 
+ 
+## My Github Stats.
+
+<a href="http://www.github.com/Danie-O"><img src="https://github-readme-stats.vercel.app/api?username=Danie-O&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Danie-O's GitHub stats" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danie-O&theme=highcontrast&border_radius=5.4)](https://git.io/streak-stats)
 <!---
