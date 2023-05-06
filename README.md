@@ -6,7 +6,7 @@
 
 🌱 I am currently exploring Python for data science particularly in the fields of ML and AI.
 
-🌱 I am also learning the MERN stack and FastAPI for fullstack web development and backend development respectively.
+🌱 I am also learning the MERN stack and FastAPI for fullstack web development and API development respectively.
 
 ⚡ I enjoy reading novels and watching action/comedy series in my free time!
 
