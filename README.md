@@ -4,7 +4,7 @@
 
 👀 I’m a final year Computer Science undergraduate, interested in software development and data science.
 
-🌱 I am currently exploring Python for data science particularly in the fields of ML and AI.
+🌱 I am currently exploring Python for data science.
 
 🌱 I am also learning the MERN stack and FastAPI for fullstack web development and API development respectively.
 
