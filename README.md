@@ -19,7 +19,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Danie-O&theme=highcontrast&border_radius=5.4)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie-O&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie-O&count_private=true) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danie-O&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
