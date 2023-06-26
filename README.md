@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Daniella Omenogor!
 
-👀 I’m a final year Computer Science undergraduate, interested in software development and data science.
+👀 I’m a Computer Science graduate, interested in software development, DevOps and data science.
 
 🌱 I am currently exploring Python for ML/AI.
 
