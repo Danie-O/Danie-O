@@ -5,6 +5,7 @@
 👀 I’m a CS graduate, interested in software development, DevOps and data science.
 
 🌱 I am currently exploring Flask and Laravel for backend development.
+
     I am also learning the MERN stack for fullstack web development.
 
 👀 Something I learnt about recently: The 'magic' behind docker compose!
