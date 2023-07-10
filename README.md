@@ -2,10 +2,10 @@
 
 👋 Hi, I’m Daniella Omenogor!
 
-👀 I’m a CS graduate, interested in software development, DevOps and data science.
+👀 I’m interested in software development, DevOps and data science.
 
      🌱 I am currently exploring Flask and Laravel for backend development.
-     🌱 I am also learning the MERN stack for fullstack web development.
+     🌱 I am also learning about the tools involved in the DevOps process and how they are important in the SDLC.
      👀 Something I learnt about recently: The 'magic' behind docker compose!
      ⚡ PS. I enjoy reading novels and watching action/comedy series in my free time!
 
