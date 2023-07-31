@@ -11,7 +11,7 @@
 
 
 📫 You can reach me here:  
-     <https://www.linkedin.com/in/daniella-omenogor-2538861aa/>
+     <https://www.linkedin.com/in/daniella-omenogor/>
 
  
 ## My Github Stats.
