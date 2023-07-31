@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Daniella Omenogor!
 
-👀 I’m interested in software development, DevOps and ML/AI.
+👀 I’m interested in software development, DevOps and AI.
 
      🌱 I am currently exploring Flask and Laravel for backend development.
      🌱 I am also learning about the tools involved in the DevOps process and how they are important in the SDLC.
