@@ -6,7 +6,7 @@
 
      🌱 I am currently exploring Flask and Laravel for backend development.
      🌱 I am also learning about the tools involved in the DevOps process and how they are important in the SDLC.
-     👀 Something I learnt about recently: The 'magic' behind docker compose!
+     👀 Something I learnt about recently: Routing with VueJS is as simple as a few lines of code and a fair amount of patience
      ⚡ PS. I enjoy reading novels and watching action/comedy series in my free time!
 
 
