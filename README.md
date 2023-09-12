@@ -2,11 +2,10 @@
 
 👋 Hi, I’m Daniella Omenogor!
 
-👀 I’m interested in software development, DevOps and AI.
+👀 I’m interested in Software Engineering and Artificial Intelligence.
 
-     🌱 I am currently exploring Flask and Laravel for backend development.
-     🌱 I am also learning about the tools involved in the DevOps process and how they are important in the SDLC.
-     👀 Something I learnt about recently: Routing with VueJS is as simple as a few lines of code and a fair amount of patience
+     🌱 I am currently exploring Flask for backend development and Vue.js for frontend development.
+     🌱 I am also learning about some tools involved in the DevOps process and how they are important in the SDLC.
      ⚡ PS. I enjoy reading novels and watching action/comedy series in my free time!
 
 
