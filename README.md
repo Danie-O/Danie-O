@@ -5,7 +5,7 @@
 👀 I’m interested in Software Engineering and Artificial Intelligence.
 
      🌱 I am currently exploring Flask for backend development and Vue.js for frontend development.
-     🌱 I am also learning about some tools involved in the DevOps process and how they are important in the SDLC.
+     🌱 I am also learning about some DevOps tools and how they are important in the life cycle of a project.
      ⚡ PS. I enjoy reading novels and watching action/comedy series in my free time!
 
 
