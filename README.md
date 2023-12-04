@@ -7,7 +7,7 @@
 
 🌱 I am currently exploring full stack software development, using languages such as Python, JavaScript, and PHP
 
-🌱 I am honing my skills in DevOps particularly in the area of infrastructure management and CI/CD/
+🌱 I am honing my skills in DevOps particularly in the area of infrastructure management and CI/CD
 
 📫 You can reach me here:  
      https://www.linkedin.com/in/daniella-omenogor     |     daniellaomenogor@gmail.com
