@@ -3,11 +3,9 @@
 <div align="center"><h1>👋 Hi, I’m Daniella.</h1></div>
 
 
-👀 I am a Computer Science graduate with a keen interest in Software Engineering and Artificial Intelligence
+👀 I am a Computer Science graduate with a keen interest in Software Engineering, DevOps and Artificial Intelligence
 
 🌱 I am currently exploring full stack software development, using languages such as Python, JavaScript, and PHP
-
-🌱 I am honing my skills in DevOps particularly in the area of infrastructure management and CI/CD
 
 📫 You can reach me here:  
      https://www.linkedin.com/in/daniella-omenogor     |     daniellaomenogor@gmail.com
